@@ -1,5 +1,5 @@
 # PINGPONG
-* untuk kalian yang gabut sama teman bisa min game ini
+* untuk kalian yang gabut sama teman bisa main game ini dijamin seru kalo tidak seru, yaudah
 * bisa dimainkan lewat hp
 * di pc bisa tapi lebih disarankan lewat hp
 * View this project via the link ==>
